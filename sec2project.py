@@ -14,7 +14,7 @@ def get_length():
             else:
                 print("Length must be a positive integer ")
         except ValueError:
-            print("That is not an integer")
+            print("That is not an integer ")
 
 def get_width():
     while True:
