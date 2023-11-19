@@ -25,7 +25,7 @@ def get_width():
             else:
                 print("Width must be a positive integer")
         except ValueError:
-            print("That is not an integer ")
+            print("That is not an integer")
 
 def get_area(length, width):
     return length * width
