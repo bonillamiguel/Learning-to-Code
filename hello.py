@@ -1,3 +1,4 @@
+#! /usr/bin/env python3
 def main():
     name = input("What's your name? ")
     hello(name)
